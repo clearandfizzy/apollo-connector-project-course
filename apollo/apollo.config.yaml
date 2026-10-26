@@ -1,0 +1,2 @@
+rover:
+  bin: ../node_modules/.bin/rover

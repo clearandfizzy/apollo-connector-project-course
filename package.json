@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "rover": "./node_modules/.bin/rover"
+  },
+  "devDependencies": {
+    "@apollo/rover": "^1.0.1"
+  }
+}
