@@ -1,7 +1,23 @@
 # apollo-connector-project-course
 Airlock
 
-## Setup
+## After Installation
+This will run a graphQL service on port 4000
+
+```
+npm run rover config auth
+```
+```
+cd apollo
+```
+```
+../node_modules/.bin/rover dev \
+  --supergraph-config ./supergraph.yaml \
+  --router-config ./router.yaml
+```
+
+
+## To Install
 
 ```
 npm run rover config auth
